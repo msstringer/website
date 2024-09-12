@@ -43,7 +43,7 @@ enableEmoji = true
   # Place image file in `static` folder and specify image name here.
   sharing_image = "/img/inv_fig.png"
   # Twitter username (without @). Used when a visitor shares your site on Twitter.
-  twitter = "SVDResearch"
+  twitter = "mssmri"
   
   # use a built-in color theme
   # one of: forest / grayscale / peach / plum /
@@ -96,11 +96,11 @@ enableEmoji = true
   [[params.social]]
       icon      = "orcid" # icon name without the 'fa-'
       icon_pack = "fab"
-      url       = "https://orcid.org/my-orcid?orcid=0000-0002-3811-4439"
+      url       = "https://orcid.org/0000-0002-3811-4439"
   [[params.social]]
       icon      = "google-scholar" # icon name without the 'fa-'
       icon_pack = "ai"
-      url       = "https://scholar.google.com/citations?user=CZfAHP4AAAAJ&hl=en"      
+      url       = "https://scholar.google.com/citations?user=CZfAHP4AAAAJ"      
 
 [taxonomies]
   category = "categories"

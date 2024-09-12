@@ -1,7 +1,7 @@
 ---
 title: "Michael S. Stringer"
-subtitle: "Research Fellow in Magnetic Resonance Imaging"
-description: "I am a researcher who uses magnetic resonance imaging to study how damage to blood vessels affects patient health, particularly in small vessel disease which causes many strokes and dementias. On this site you can find out a bit about me and my work."
+subtitle: "Lecturer in Magnetic Resonance Imaging <br> Stroke Association Fellow"
+description: "I am a researcher who uses magnetic resonance imaging to study how damage to blood vessels affects patient health, particularly in small vessel disease, which causes many strokes and dementias. On this site you can find out a bit about me and my work."
 images:
   - img/paolozzi_1939_ds.jpg
 image_left: false
